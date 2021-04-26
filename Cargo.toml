@@ -1,6 +1,10 @@
 [package]
 name = "num-shaman"
 version = "0.1.0"
+license = "Unlicense"
+description = "Partial implementation of inteval arithmetic for numerical robustness analysis"
+homepage = "https://github.com/Lemmih/num-shaman"
+repository = "https://github.com/Lemmih/num-shaman"
 authors = ["David Himmelstrup <lemmih@gmail.com>"]
 edition = "2018"
 
